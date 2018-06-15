@@ -251,6 +251,7 @@ page_id: home
         {% used_by_logo PixArt; images/logos/pixart.png; http://www.pixart.com/ %}
         {% used_by_logo DLR; /images/logos/DLR_Logo.png; http://www.dlr.de/ %}
         {% used_by_logo Insper; /images/logos/insper.png; http://www.insper.edu.br/ %}
+        {% used_by_logo University of Hanyang; /images/logos/Hanyang.png; http://www.hanyang.ac.kr/ %}
 
       </div>
       <div class="row">
